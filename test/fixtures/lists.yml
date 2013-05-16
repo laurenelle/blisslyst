@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  title: MyString
+  status: 1
+  privacy: 1
+
+two:
+  title: MyString
+  status: 1
+  privacy: 1
